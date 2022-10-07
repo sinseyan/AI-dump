@@ -1,0 +1,35 @@
+[33mcommit aab44e46925e3d13f69e44d04517431af6cc192a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: unknown <marasiganandrei06@gmail.com>
+Date:   Fri Oct 7 21:02:47 2022 +0800
+
+    reset
+
+[33mcommit c6ce4303b2bd78037e54108478601e16f87a8e04[m
+Author: unknown <marasiganandrei06@gmail.com>
+Date:   Fri Oct 7 20:56:06 2022 +0800
+
+    added CNN output
+
+[33mcommit b406952225d7e698f671f09423ce7c2e74cbee26[m
+Author: unknown <marasiganandrei06@gmail.com>
+Date:   Fri Oct 7 20:50:44 2022 +0800
+
+    compressed xray dataset
+
+[33mcommit 102997d5fe27ea5d6bbdd4265104edca54e43382[m
+Author: unknown <marasiganandrei06@gmail.com>
+Date:   Fri Oct 7 20:43:06 2022 +0800
+
+    Added CNN
+
+[33mcommit 013a7a7c0e9765c4a5a0b5b9c6a1645bf6c2007a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sean Andrei Marasigan <115228254+sinseyan@users.noreply.github.com>
+Date:   Fri Oct 7 20:24:22 2022 +0800
+
+    Add files via upload
+
+[33mcommit 41d4b6e6f04e2829d8e34cbde4a377d0ef814fca[m
+Author: Sean Andrei Marasigan <115228254+sinseyan@users.noreply.github.com>
+Date:   Fri Oct 7 20:22:59 2022 +0800
+
+    Initial commit
